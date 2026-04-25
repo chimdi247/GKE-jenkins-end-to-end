@@ -20,4 +20,11 @@ https://medium.com/@vijaygiduthuri67/google-cloud-project-c44cee552094
 https://youtu.be/XBRkFyK6D0k?si=fTiMznG-V1krMlhF
 ```
 
+### monitoring, prometheus and grafana
+
+```
+https://medium.com/@vijaygiduthuri67/-89e2442a289f
+```
+
+
 
